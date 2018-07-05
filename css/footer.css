@@ -1,0 +1,53 @@
+/*Pie de pagina*/
+footer{
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	display: none;
+}
+
+
+.pie{
+	display: inline-block;
+	width: 150px;
+	height:150px;
+	background-color: red;
+	border: 2px solid blue;
+}	
+/*primer cuadro*/
+.pie .pie1 ul{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.pie .pie1 ul li{
+	margin-top: 5px;
+	list-style: none;
+	width: 100%;
+}
+.pie .pie1 ul li a{
+	text-decoration: none;
+	font-size: 1.2em;
+	color: #fff;
+}
+
+/*segundo cuadro*/
+.pie .pie2 ul{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.pie .pie2 ul li{
+	margin-top: 5px;
+	list-style: none;
+	width: 100%;
+}
+.pie .pie2 ul li a{
+	text-decoration: none;
+	font-size: 1.2em;
+	color: #fff;
+}
